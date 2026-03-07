@@ -6,52 +6,38 @@
 # award: (optional) award name
 # ====================
 
-- title: "Understanding Visualization Literacy through Visual Attention Patterns: An Eye-Tracking Study"
-  authors: "Jangkyu Ju, Cindy Xiong Bearfield"
-  venue: "IEEE VIS 2025"
-  year: 2025
-  type: Conference
-  status: Accepted
-  links:
-    paper: "#"
-    arxiv: "#"
-
-- title: "Supporting Decision-Making and Critical Thinking with Interactive Visualizations"
-  authors: "Jangkyu Ju, John Doe, Cindy Xiong Bearfield"
-  venue: "ACM IUI 2026"
-  year: 2026
-  type: Conference
-  status: Accepted
-  links:
-    paper: "#"
-    demo: "#"
-
-- title: "AI-Powered Visualization Literacy Assessment: A Machine Learning Approach"
-  authors: "Jangkyu Ju, Srishti Palani, Arjun Srinivasan, Cindy Xiong Bearfield"
-  venue: "IEEE TVCG"
-  year: 2026
+- title: "Visual complexity of head-up display in automobiles modulates attentional tunneling"
+  authors: "J. Lee, N. Lee, Jangkyu Ju, J. Chae, J. Park, H.S. Ryu, Y.S. Cho"
+  venue: "Human Factors, 66(7), 1879-1892"
+  year: 2024
   type: Journal
-  status: Under Review
+  status: Published
   links:
-    arxiv: "#"
+    paper: "#"
 
-- title: "Cognitive Load in Data Visualization: The Role of Chart Complexity and User Expertise"
-  authors: "Jangkyu Ju, Jane Smith, Cindy Xiong Bearfield"
-  venue: "CHI 2025"
-  year: 2025
+- title: "Comparative Analysis of Ensemble Machine Learning Models for Personalized In-Vehicle Infotainment Recommendation Systems"
+  authors: "Jangkyu Ju, E. Lee, S.J. Park"
+  venue: "Adjunct Proceedings of the 16th International Conference on Automotive User Interfaces (AutomotiveUI 2024)"
+  year: 2024
   type: Conference
   status: Published
-  award: "Best Paper Honorable Mention"
   links:
     paper: "#"
-    arxiv: "#"
-    code: "#"
 
-- title: "Designing Effective Visual Analytics Tools for Non-Expert Users"
-  authors: "Jangkyu Ju, Cindy Xiong Bearfield"
-  venue: "VIS Workshop on Visualization for the Digital Humanities"
-  year: 2024
-  type: Workshop
+- title: "The modulation of value-driven attentional capture by exploration for reward information"
+  authors: "Jangkyu Ju, Y.S. Cho"
+  venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition, 49(2), 181"
+  year: 2023
+  type: Journal
+  status: Published
+  links:
+    paper: "#"
+
+- title: "Value-driven attention and associative learning models: a computational simulation analysis"
+  authors: "J.H. Jeong, Jangkyu Ju, S. Kim, J.S. Choi, Y.S. Cho"
+  venue: "Psychonomic Bulletin & Review, 30(5), 1689-1706"
+  year: 2023
+  type: Journal
   status: Published
   links:
     paper: "#"
