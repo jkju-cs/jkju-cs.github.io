@@ -76,22 +76,6 @@ body {
   align-items: center;
 }
 
-/* Brand / Name logo */
-.topbar-brand {
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--custom-card-fg);
-  text-decoration: none;
-  letter-spacing: -0.01em;
-  white-space: nowrap;
-  transition: color 0.15s;
-  flex-shrink: 0;
-}
-
-.topbar-brand:hover {
-  color: var(--custom-primary);
-}
-
 .topbar-nav {
   display: flex;
   gap: 0;
