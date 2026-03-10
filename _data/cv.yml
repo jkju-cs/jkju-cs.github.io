@@ -4,51 +4,209 @@
 
 experience:
   - organization: "Hyundai Motor Group"
-    role: "Research Engineer & Data Scientist"
-    team: "Infotainment Planning Team, AVP Center"
-    period: "Mar 2023 – Present"
+    role: "Research Engineer / Data Scientist"
+    team: "Data Insight Team, ICT Division"
+    period: "2025 – Present"
     location: "Seoul, South Korea"
     highlights:
-      - "Led IVI data collection architecture redesign for Android Automotive OS — 40+ modular event categories, 50% reduction in schema maintenance workload; deployed to production Connect IVI fleet"
-      - "Built personalized IVI content recommendation system using ensemble ML (CatBoost: 0.918 precision, 0.904 F1); published at ACM AutomotiveUI 2024"
-      - "Automated end-to-end VoC analysis pipeline (ETL + NLP + LLM agent); reduced analysis cycle from 2 weeks to 2 days"
-      - "Ongoing global IVI user behavior analysis across Korea, Europe, and India — MAU, cohort retention, churn, and ML-based user clustering"
-      - "Designed unified KPI monitoring dashboard (Tableau) consolidating fragmented reporting systems across the AVP Center"
+      - "Large-scale cross-domain data analysis (e.g., vehicle log, customer, sales, production), metrics development and dashboard visualization"
+      - "Optimization and automation of ML models and data pipelines for scalable deployment"
+
+  - organization: "Hyundai Motor Group"
+    role: "Research Engineer"
+    team: "Infotainment Development Center, R&D Division"
+    period: "2023 – 2025"
+    location: "Seoul, South Korea"
+    highlights:
+      - "Large-scale in-vehicle infotainment (IVI) data analysis for modeling interaction behavior"
+      - "ML model and HMI design for personalized IVI recommendation systems"
+      - "Development and evaluation of user behavior metrics for optimizing IVI feature usability"
+      - "Development of IVI database architectures and pipelines for efficient storage and analysis"
 
   - organization: "Korea University, School of Psychology"
-    role: "Graduate Research Assistant"
-    team: "Attention & Cognitive Science Lab"
-    period: "Mar 2021 – Feb 2023"
+    role: "Graduate Researcher"
+    team: "Human Performance Lab"
+    period: "2021 – 2023"
     location: "Seoul, South Korea"
     highlights:
-      - "M.S. thesis: Investigated information entropy vs. reward variance as drivers of value-driven attentional capture (VDAC); 4 behavioral experiments, N=160+; published in JEP: LMC (2023)"
-      - "Co-first author on HUD visual complexity and attentional tunneling study (driving simulator, N=62); published in Human Factors (2024)"
-      - "Implemented and compared 4 associative learning models (Rescorla-Wagner, Mackintosh, SPH, EH) for VDAC; published in Psychonomic Bulletin & Review (2023)"
+      - "Visual complexity of automotive head-up displays and attentional tunneling in driving (in collab. with Cognitive Systems Lab, Korea University, PI: Prof. Christian Wallraven)"
+      - "Exploration for reward information in modulating Value-Driven Attentional Capture (VDAC)"
+      - "Computational simulation of associative learning models in VDAC"
+
+  - organization: "Korea University, School of Psychology"
+    role: "Research Assistant"
+    team: "Human Performance Lab"
+    period: "2020"
+    location: "Seoul, South Korea"
+    highlights:
+      - "Behavioral experiments (key-press, mouse-tracking, neuro-imaging)"
+      - "Statistical analysis and ML"
+
+  - organization: "L'Oréal Korea"
+    role: "Data Analyst Intern"
+    team: "Human Resources"
+    period: "2019"
+    location: "Seoul, South Korea"
+    highlights:
+      - "Company-wide digital platform data analysis to support HR and operations decisions"
 
 education:
-  - degree: "M.S. in Behavioral & Cognitive Neuroscience"
+  - degree: "M.S. in Behavioral and Cognitive Neuroscience"
     institution: "Korea University"
     department: "School of Psychology"
-    period: "Mar 2021 – Feb 2023"
+    period: "2021 – 2023"
     location: "Seoul, South Korea"
-    note: "Thesis: Reward uncertainty and information entropy in value-driven visual attention"
+    note: "GPA: 4.5/4.5 · Advisor: Dr. Yang-Seok Cho"
+
+  - degree: "Exchange Student"
+    institution: "University of Toronto"
+    department: "Department of Psychology"
+    period: "2019"
+    location: "ON, Canada"
+
+  - degree: "B.A. in Psychology, Business Administration"
+    institution: "Korea University"
+    department: "Double Major"
+    period: "2015 – 2021"
+    location: "Seoul, South Korea"
+    note: "GPA: 4.09/4.5"
+
+presentations:
+  - authors: "Ju, J., Lee, E., & Park, S."
+    title: "Comparative analysis of ensemble machine learning models for personalized in-vehicle infotainment recommendation systems"
+    event: "16th International Conference on Automotive User Interfaces and Interactive Vehicular Applications"
+    type: "Poster"
+    location: "Stanford, USA"
+    year: "2024"
+
+  - authors: "Ju, J., & Cho, Y. S."
+    title: "Distinctive effects of predictiveness and uncertainty of reward in value-driven attentional capture"
+    event: "63rd Annual Meeting of the Psychonomic Society"
+    type: "Poster"
+    location: "Boston, USA"
+    year: "2022"
+
+  - authors: "Lee, J., Lee, N., Ju, J., Chae, J., Park, J., Ryu, H. S., & Cho, Y. S."
+    title: "Simple is the best! Visual complexity of head-up display in automobiles modulates attentional tunneling and driving performance"
+    event: "13th International Conference of the Applied Human Factors and Ergonomics"
+    type: "Poster"
+    location: "New York, USA"
+    year: "2022"
+
+  - authors: "Ju, J., & Cho, Y. S."
+    title: "Impact of predictiveness and uncertainty of reward on value-driven attentional capture"
+    event: "2022 Annual Conference of the Korean Society of Cognitive and Biological Psychology"
+    type: "Poster"
+    location: "Virtual"
+    year: "2022"
+
+  - authors: "Lee, J., Lee, N., Ju, J., Chae, J., Park, J., Ryu, H. S., & Cho, Y. S."
+    title: "Impact of visual complexity of head-up display on driving performance"
+    event: "2022 Annual Conference of the Korean Society of Cognitive and Biological Psychology"
+    type: "Talk"
+    location: "Virtual"
+    year: "2022"
+    award: "Outstanding Presentation Award"
+
+  - authors: "Ju, J., & Cho, Y. S."
+    title: "Distinctive effects of entropy and variance of reward in value-driven attentional capture"
+    event: "62nd Annual Meeting of the Psychonomic Society"
+    type: "Poster"
+    location: "Virtual"
+    year: "2021"
+
+  - authors: "Ju, J., & Cho, Y. S."
+    title: "Impact of reward information entropy and variance on value-driven attentional capture"
+    event: "2021 Annual Conference of the Korean Society of Cognitive and Biological Psychology"
+    type: "Talk"
+    location: "Virtual"
+    year: "2021"
+
+awards:
+  - year: "2021 – 2023"
+    title: "Scholarship for Graduate Researcher"
+    organization: "Brain Korea 21, Ministry of Education, Korea"
+
+  - year: "2022"
+    title: "Outstanding Presentation Award"
+    organization: "Korean Society of Cognitive and Biological Psychology"
+
+  - year: "2021"
+    title: "Award of Excellence & Scholarship"
+    organization: "Research Challenger Program (RCP), Center for Teaching and Learning (CTL), Korea University"
+
+  - year: "2018"
+    title: "Dean's List"
+    organization: "Korea University"
+
+  - year: "2018"
+    title: "Academic Excellence Award"
+    organization: "Korea University"
+
+  - year: "2018 – 2020"
+    title: "Family Scholarship"
+    organization: "Korea University"
+
+  - year: "2018 – 2020"
+    title: "Semester High Honors"
+    organization: "Korea University"
+
+  - year: "2015"
+    title: "Semester Honors"
+    organization: "Korea University"
+
+  - year: "2018"
+    title: "Army Commendation Medal (ARCOM)"
+    organization: "United States Army"
+
+  - year: "2018"
+    title: "Certificate of Achievement (COA)"
+    organization: "United States Army"
+
+  - year: "2018"
+    title: "Exemplary Soldier Award"
+    organization: "Republic of Korea Army"
+
+teaching:
+  - year: "2021"
+    role: "Teaching Assistant"
+    course: "User Experience and Psychology (PSYC493)"
+    level: "Undergraduate course"
+    institution: "Korea University, School of Psychology"
+    instructor: "Dr. Yang-Seok Cho"
+
+  - year: "2021"
+    role: "Teaching Assistant"
+    course: "Emotion and Cognition (PSY414)"
+    level: "Graduate course"
+    institution: "Korea University, School of Psychology"
+    instructor: "Dr. Yang-Seok Cho"
+
+invited_talks:
+  - year: "2025"
+    title: "Cognitive Psychology and In-Vehicle Infotainment Systems"
+    course: "Psychological Research and Applications"
+    institution: "Korea University, School of Psychology"
+    location: "Seoul, Korea"
+
+  - year: "2024"
+    title: "Cognitive Psychology and In-Vehicle Infotainment Systems"
+    course: "Psychological Research and Applications"
+    institution: "Korea University, School of Psychology"
+    location: "Seoul, Korea"
+
+  - year: "2024"
+    title: "Cognitive Psychology and In-Vehicle Infotainment Systems"
+    course: "Cognitive Engineering"
+    institution: "Department of Psychology, Chungbuk National University"
+    location: "Virtual Talk"
 
 skills:
-  - category: "Programming Languages"
-    items: ["Python", "SQL", "R", "MATLAB", "SPSS"]
-  - category: "Data Engineering"
-    items: ["Apache Spark", "Apache Airflow", "PostgreSQL", "MySQL", "MongoDB", "BigQuery", "Apache Kafka", "AWS (S3/EMR/Athena)", "GCP (BigQuery/Vertex AI/Dataflow)"]
-  - category: "Machine Learning & AI"
-    items: ["CatBoost", "XGBoost", "LightGBM", "Random Forest", "TensorFlow", "PyTorch", "Scikit-learn", "NLP / LLM", "Recommendation Systems"]
-  - category: "MLOps & DevOps"
-    items: ["Docker", "MLflow", "GitHub Actions", "Jenkins", "Kubeflow"]
-  - category: "Visualization & BI"
-    items: ["Tableau", "Power BI", "Looker Studio"]
-  - category: "HCI & Research Tools"
-    items: ["PsychoPy", "Eye-tracking (Tobii)", "Driving Simulator", "Unity", "Figma"]
-  - category: "Research Methods"
-    items: ["Behavioral Experiments", "Computational Modeling", "Statistical Analysis (R)", "Controlled Lab Studies"]
-  - category: "Frontend & Web"
-    items: ["HTML/CSS", "JavaScript", "React", "Django"]
-  - category: "Collaboration & Infra"
-    items: ["Git/GitHub", "Confluence", "Jira", "Android Automotive OS"]
+  - category: "Data & Cloud"
+    items: ["Python", "SQL", "R", "Apache Spark", "Airflow", "PostgreSQL", "MySQL", "BigQuery", "Hadoop/HDFS", "Kafka", "AWS", "GCP", "Tableau", "Qlik Sense", "MicroStrategy", "Metabase"]
+  - category: "ML & MLOps"
+    items: ["Scikit-learn", "TensorFlow", "PyTorch", "Keras", "MLflow", "Kubeflow", "Docker", "CI/CD"]
+  - category: "Experimentation"
+    items: ["Behavioral task design and programming", "Experimental design & analysis", "Eye-tracking", "Driving Simulator", "PsychoPy"]
+  - category: "Front-End & Web Integration"
+    items: ["HTML/CSS", "JavaScript", "React", "Django", "Figma", "Unity 3D"]

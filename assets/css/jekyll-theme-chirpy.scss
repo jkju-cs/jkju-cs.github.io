@@ -1621,3 +1621,87 @@ body {
   font-size: 0.8125rem;
   font-weight: 500;
 }
+
+/* Publications / Presentations — numbered list */
+.cv-numbered-list {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.cv-numbered-entry {
+  margin-bottom: 0.875rem;
+}
+
+.cv-numbered-entry:last-child {
+  margin-bottom: 0;
+}
+
+.cv-pub-citation {
+  font-size: 0.875rem;
+  color: var(--custom-card-fg);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.cv-pub-citation a {
+  color: var(--custom-card-fg);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.cv-pub-citation a:hover {
+  color: var(--custom-primary);
+}
+
+.cv-section-note {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--custom-muted-fg);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* Awards */
+.cv-awards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+
+.cv-award-row {
+  display: flex;
+  gap: 2rem;
+  align-items: baseline;
+}
+
+.cv-award-year {
+  font-size: 0.8125rem;
+  color: var(--custom-muted-fg);
+  min-width: 6rem;
+  flex-shrink: 0;
+}
+
+.cv-award-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.cv-award-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--custom-card-fg);
+}
+
+.cv-award-org {
+  font-size: 0.8125rem;
+  color: var(--custom-muted-fg);
+}
+
+@media (max-width: 640px) {
+  .cv-award-row {
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+}

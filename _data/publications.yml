@@ -4,40 +4,41 @@
 # status: Published | Accepted | Under Review
 # links: paper, arxiv, code, demo (all optional)
 # award: (optional) award name
+# * = co-first author
 # ====================
 
 - title: "Visual complexity of head-up display in automobiles modulates attentional tunneling"
-  authors: "J. Lee, N. Lee, Jangkyu Ju, J. Chae, J. Park, H.S. Ryu, Y.S. Cho"
+  authors: "Lee, J.*, Lee, N.*, Ju, J.*, Chae, J., Park, J., Ryu, H. S., & Cho, Y. S."
   venue: "Human Factors, 66(7), 1879-1892"
   year: 2024
   type: Journal
   status: Published
   links:
-    paper: "https://journals.sagepub.com/doi/full/10.1177/00187208231181496"
+    paper: "https://doi.org/10.1177/00187208231181496"
 
-- title: "Comparative Analysis of Ensemble Machine Learning Models for Personalized In-Vehicle Infotainment Recommendation Systems"
-  authors: "Jangkyu Ju, E. Lee, S.J. Park"
-  venue: "Adjunct Proceedings of the 16th International Conference on Automotive User Interfaces (AutomotiveUI 2024)"
+- title: "Comparative analysis of ensemble machine learning models for personalized in-vehicle infotainment recommendation systems"
+  authors: "Ju, J., Lee, E., & Park, S."
+  venue: "Adjunct Proceedings of the 16th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, 45-50"
   year: 2024
   type: Conference
   status: Published
   links:
-    paper: "https://dl.acm.org/doi/abs/10.1145/3641308.3685021"
+    paper: "https://doi.org/10.1145/3641308.3685021"
 
 - title: "The modulation of value-driven attentional capture by exploration for reward information"
-  authors: "Jangkyu Ju, Y.S. Cho"
-  venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition, 49(2), 181"
+  authors: "Ju, J., & Cho, Y. S."
+  venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition, 49(2), 181-197"
   year: 2023
   type: Journal
   status: Published
   links:
-    paper: "https://psycnet.apa.org/buy/2023-11497-001"
+    paper: "https://doi.org/10.1037/xlm0001189"
 
 - title: "Value-driven attention and associative learning models: a computational simulation analysis"
-  authors: "J.H. Jeong, Jangkyu Ju, S. Kim, J.S. Choi, Y.S. Cho"
+  authors: "Jeong, J. H., Ju, J., Kim, S., Choi, J. S., & Cho, Y. S."
   venue: "Psychonomic Bulletin & Review, 30(5), 1689-1706"
   year: 2023
   type: Journal
   status: Published
   links:
-    paper: "https://link.springer.com/article/10.3758/s13423-023-02296-0"
+    paper: "https://doi.org/10.3758/s13423-023-02296-0"
